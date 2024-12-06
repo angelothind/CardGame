@@ -1,0 +1,7 @@
+during setup assign players their draw and discard deck by object not by id value.
+then for when running get discard deck or draw deck, the return object is the deck itself.
+
+
+checking if players have won NOT in threads - this involves making the exit method
+
+start threads - discuss events and listeners for game loop
